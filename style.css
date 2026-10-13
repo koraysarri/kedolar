@@ -14,3 +14,9 @@ h3{
 p{
     font-size: 16px;
 }
+a{
+    color: #8b4513;
+    font-family: Arial,sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
